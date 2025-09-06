@@ -159,14 +159,8 @@ https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 #EXTINF:-1  tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://8.138.7.223/tv/shtv.php?id=ly
-#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="备用频道",黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1  tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="点播电影",龙门飞甲
-http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台频道",凤凰中文
 https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="港澳台频道",凤凰卫视 *r
-https://stream1.freetv.fun/ba316ea10da1d6e7d8a69298c5dba1cef1f9372c3091eec714693b7000bc1220.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港" tvg-id="凤凰卫视香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港.png" group-title="港澳台频道",凤凰卫视香港
 https://stream1.freetv.fun/5b951aef4004fe76a28e3cbe7fed668e433317b747c28c5ff7d437ba4d97c4d1.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-id="凤凰电影" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png" group-title="港澳台频道",凤凰电影

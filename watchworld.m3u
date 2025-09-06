@@ -663,3 +663,47 @@ http://8.138.7.223/tv/shtv.php?id=ly
 http://112.27.235.94:8000/hls/48/index.m3u8
 #EXTINF:-1  tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="点播电影",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台频道",凤凰中文
+https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="港澳台频道",凤凰卫视 *r
+https://stream1.freetv.fun/ba316ea10da1d6e7d8a69298c5dba1cef1f9372c3091eec714693b7000bc1220.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视香港" tvg-id="凤凰卫视香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港.png" group-title="港澳台频道",凤凰卫视香港
+https://stream1.freetv.fun/5b951aef4004fe76a28e3cbe7fed668e433317b747c28c5ff7d437ba4d97c4d1.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" tvg-id="凤凰电影" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png" group-title="港澳台频道",凤凰电影
+https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
+https://stream1.freetv.fun/513ded31cb8866e23ca79a320f35f9a39db171e7c1b12044e2e0c873b210a5ef.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳台频道",凤凰香港
+https://stream1.freetv.fun/db3451296672e22dfbd5f27d12f32675e8f9e4ca2379aa8097aeb2053a407e3f.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="港澳台频道",无线新闻
+https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.m3u8
+#EXTINF:-1 tvg-name="明珠" tvg-id="明珠" tvg-logo="https://live.fanmingming.cn/tv/明珠.png" group-title="港澳台频道",明珠
+https://stream1.freetv.fun/18147fe9227d749afdbf2b79ad6a6182ecd2276f2338a696d0c23d998e2763b2.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-id="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="港澳台频道",星空卫视
+https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.m3u8
+#EXTINF:-1 tvg-name="星空国际" tvg-id="星空国际" tvg-logo="https://live.fanmingming.cn/tv/星空国际.png" group-title="港澳台频道",星空国际
+https://stream1.freetv.fun/75e262d43778a32cb887d4ede15dc972143a0522e4d89a81f45b7307f6fedd61.m3u8
+#EXTINF:-1 tvg-name="港台电视 32" tvg-id="港台电视32" tvg-logo="https://live.fanmingming.cn/tv/港台电视32.png" group-title="港澳台频道",港台电视 32
+https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
+#EXTINF:-1 tvg-name="美亚c plus" tvg-id="美亚c plus" tvg-logo="https://live.fanmingming.cn/tv/美亚c plus.png" group-title="港澳台频道",美亚c plus
+https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
+#EXTINF:-1 tvg-name="翡翠" tvg-id="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png" group-title="港澳台频道",翡翠
+https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.m3u8
+#EXTINF:-1 tvg-name="翡翠" tvg-id="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png" group-title="港澳台频道",翡翠
+https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
+#EXTINF:-1 tvg-name="香港c plus" tvg-id="香港c plus" tvg-logo="https://live.fanmingming.cn/tv/香港c plus.png" group-title="港澳台频道",香港c plus
+https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳台频道",香港卫视
+https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
+#EXTINF:-1 tvg-name="香港卫视文艺" tvg-id="香港卫视文艺" tvg-logo="https://live.fanmingming.cn/tv/香港卫视文艺.png" group-title="港澳台频道",香港卫视文艺
+https://stream1.freetv.fun/1c05547dc203d9dacaad0c0552f2cc54b0e6726a2b6c38c6a4d7235db8468d2f.m3u8
+#EXTINF:-1 tvg-name="Taiwan_Plus" tvg-id="Taiwan_Plus" tvg-logo="https://live.fanmingming.cn/tv/Taiwan_Plus.png" group-title="港澳台频道",Taiwan_Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",翡翠台
+https://ali.hlspull.yximgs.com/live/1fec60a50af54795e7eb2fd0b162c169.flv
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",翡翠台
+mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+#EXTINF:-1 tvg-name="J2台" tvg-id="J2台" tvg-logo="https://live.fanmingming.cn/tv/J2台.png" group-title="港澳台频道",J2台
+mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-id="黄金翡翠台" tvg-logo="https://live.fanmingming.cn/tv/黄金翡翠台.png" group-title="港澳台频道",黄金翡翠台
+mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12

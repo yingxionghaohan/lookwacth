@@ -1,26 +1,3 @@
--viutv,https://stream1.freetv.fun/f48bb6051a7feba9cc3412b4572f97f3631057c172f27b6fc620d6dc63317f6d.m3u8
--明珠,https://stream1.freetv.fun/98f6743f6e5ecaaa4f5d1d23e7aaa0991aeffc20b499dc3b81e654ed4e3514a2.m3u8
--翡翠台,https://stream1.freetv.fun/ccff8c256e53ddaa11bb26e52ca4cda304428519d17ef341aef681d5e551d1ce.m3u8
-fashion tv,http://91.247.68.229:8000/play/Fashion/index.m3u8
-mytv super 18台,http://bxtv.3a.ink/api.php?id=18
-newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-now新闻,http://bxtv.3a.ink/api.php?id=now
-popc,http://bxtv.3a.ink/api.php?id=popc
-taiwan plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-tbs,http://143.244.60.30/TBS/index.m3u8
-trace sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-tvb plus,http://bxtv.3a.ink/api.php?id=tvbp
-tvbs新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-tvb无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-tvb翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-wionnews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-美亚c+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 animax ,https://stream1.freetv.fun/f7e07c8db204f39fcb199fab1adf84e6a1047928216d45499d917b490377618d.m3u8
 animax *r,https://stream1.freetv.fun/4ce23fe31c92b2eeec81abdf9bc55d2c621362985eef880ce381ec411ca3d396.m3u8
 atv plus,https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8

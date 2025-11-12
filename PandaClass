@@ -71,3 +71,7 @@ https://5721004.xyz/pc5/pandaclass%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC01%E6%9C%9
 https://5721004.xyz/pc5/pandaclass%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC01%E6%9C%9F20250617/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250617_11.m3u8
 #EXTINF:-1  tvg-name="PandaClass" group-title="第五季","第01期20250617",12
 https://5721004.xyz/pc5/pandaclass%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC01%E6%9C%9F20250617/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250617_12.m3u8
+
+#EXTINF:-1  tvg-name="JinriCP" group-title="超长VIP","第01期20240219",01
+#EXTVLCOPT:sub-file=https://5721004.xyz/bu/2.19/20240219_221621.srt
+https://5721004.xyz/bu/2.19/20240219_221621.m3u8

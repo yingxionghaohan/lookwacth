@@ -1,1 +1,60 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo-500x281.png" group-title="未分类",Al Jazeera
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo.png" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="未分类",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+http://nocable.cc:8080/91161088/91161088/1818
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="TV",MSNBC
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://i.gyazo.com/39d42952500205d04e448247b7889256.png" group-title="TV",NBC
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
+http://nocable.cc:8080/91161088/91161088/120749
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV",Fox
+http://nocable.cc:8080/91161088/91161088/121595
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
+http://nocable.cc:8080/91161088/91161088/46713
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="TV",Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
+http://nocable.cc:8080/91161088/91161088/9299
+#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="Movies",MGM+
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax(USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1600px-Cinemax_new.png?20160624192807" group-title="Movies",Cinemax
+https://stream1.freetv.fun/us-cinemax-1.ctv
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="TV",FX
+http://nocable.cc:8080/91161088/91161088/46690
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
+http://nocable.cc:8080/91161088/91161088/18925
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA
+http://nocable.cc:8080/91161088/91161088/10252
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="TV",National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="TV",Discovery Channel
+http://nocable.cc:8080/91161088/91161088/46720
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="TV",Discovery Science
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="TV",History Channel
+http://nocable.cc:8080/91161088/91161088/15017
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
+http://nocable.cc:8080/91161088/91161088/14197
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN 2
+http://nocable.cc:8080/91161088/91161088/2210
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="TV",Fox Sports 1
+http://nocable.cc:8080/91161088/91161088/1846
 

@@ -1,0 +1,59 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" group-title="未分类",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="未分类",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="MoveOnJoy+",Fox News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="TV",HBO
+http://nocable.cc:8080/91161088/91161088/46713
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="未分类",Showtime
+http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/46214
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="STARZ (EAST)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MoveOnJoy+",Starz
+http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="未分类",Cinemax
+http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/13380
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/500px-MGM%2B_logo.svg.png" group-title="未分类",MGM+
+http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/13214
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="MoveOnJoy+",FX
+http://cord-cutter.net:8080/bn80NG/909467/46690
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/500px-AMC_logo_2019.svg.png" group-title="TV",AMC
+http://nocable.cc:8080/91161088/91161088/18925
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/500px-TNT_%28TV_Channel%29.svg.png" group-title="TV",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png" group-title="TV",ESPN
+http://nocable.cc:8080/91161088/91161088/14197
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="未分类",National Geographic
+http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/9277
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="MoveOnJoy+",Discovery Channel
+http://143.244.60.30/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="MoveOnJoy+",History Channel
+http://143.244.60.30/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="MoveOnJoy+",Smithsonian Channel
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="TV",Animal Planet
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="United States",BBC Earth
+https://pb-zjy36qhp8e8cz.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-zjy36qhp8e8cz/aea37b7a-3b2d-46e8-8376-28fa74d1f0d0/3.m3u8
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="United States",Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8?ads.cdn=ak&ads.service_id=USBA3400003IP&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-ehs1glsha1juy_akamai
+#EXTINF:-1 tvg-id="22 THE POINT PITTSBURGH PA WPNT" tvg-name="ABC New York UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="USA LOCAL",ABC New York
+http://192.101.68.99:25461/live/923429/481252/71676.m3u8?token=ShRZAEYJFQxGDlFZAFECXwENBARQDFwFVlAFAAkHVl5QAgBVVlQAU1YaShpGQUQDVlVuXFUXAwEEVAABHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEBwAHVAJDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MDUgQGRhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXVAQEVgFERQ==
+#EXTINF:-1 tvg-id="ABC LOS ANGELES CA KABC" tvg-name="ABC Los Angeles KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/500px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="USA LOCAL",ABC Los Angeles
+http://192.101.68.99:25461/live/923429/481252/71609.m3u8?token=ShRZAEYJFQxGCVRbDAMEB1ZZBldXAg8OAAYOVghSX1IHBwVRBVYPBAIaShpGQUQDVlVuXFUXAwEEVAcOHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEBQEDVQdDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MDUgYDRhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXVQAEVQlERQ==
+#EXTINF:-1 tvg-id="CBS NEW YORK NY WCBS" tvg-name="CBS New York WCBS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="USA LOCAL",CBS New York
+http://192.101.68.99:25461/live/923429/481252/71677.m3u8?token=ShRZAEYJFQxGWVMMBgUHUwIJCAQGVloODVcCUVQFVVFTAQQAUAIDAVYaShpGQUQDVlVuXFUXAwEEVAAAHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEAg4IVQRDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MNVwYCRhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXUwEDVhob
+#EXTINF:-1 tvg-id="CBS LOS ANGELES CA KCBS" tvg-name="CBS Los Angeles KCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBS_LA_logo.svg/500px-CBS_LA_logo.svg.png" group-title="USA LOCAL",CBS Los Angeles
+http://192.101.68.99:25461/live/923429/481252/71611.m3u8?token=ShRZAEYJFQxGWQAIVAAOAA5cAwQHAw4PVlAGUwNXAlQFVwRVUVIOB1waShpGQUQDVlVuXFUXAwEEVAYGHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEBQYBVQZDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MNWAQERhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXVQIBUw1ERQ==
+#EXTINF:-1 tvg-id="NBC NEW YORK NY WNBC" tvg-name="NBC New York WNBC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="USA LOCAL",NBC New York
+http://192.101.68.99:25461/live/923429/481252/71679.m3u8?token=ShRZAEYJFQxGXAcPVlFUBwUAAQMIDAsDBlcGVVIGAFYFDwEDDFlUA1caShpGQUQDVlVuXFUXAwEEVAAOHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEBgQCWQNDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MMUAIHRhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXUwYDXABERQ==
+#EXTINF:-1 tvg-id="COZI LOS ANGELES CA KNBC" tvg-name="NBC Los Angeles KNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="USA LOCAL",NBC Los Angeles
+http://192.101.68.99:25461/live/923429/481252/71613.m3u8?token=ShRZAEYJFQxGXlIJBFZSVQRcUFBUBAxVB1MFAVBXU1NTDlAHBQADBgYaShpGQUQDVlVuXFUXAwEEVAYEHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEBAAAUQBDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MMUA8ORhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXVAEGXQ5ERQ==
+#EXTINF:-1 tvg-id="FOX NEW YORK NY WNYW" tvg-name="Fox New York WNYW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/500px-Fts-new-york-a.svg.png" group-title="USA LOCAL",Fox New York
+http://192.101.68.99:25461/live/923429/481252/71678.m3u8?token=ShRZAEYJFQxGDgQLB1ACA1UBAwwHAg4DUVpRA1QAUl4AVQRZUVVTUAcaShpGQUQDVlVuXFUXAwEEVAAPHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlxEAg8BWQxDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUC0MDUA8CRhREW1pAWBJFQRMPE2BqFBlAUk9FUQgVWFlfQw9DWgURAEQUF1xFOUVdQkFDUFhbUBAVDRMEREoTW1AZagJYWApdBUxcWlgVFQITARMZG1taDF5DXkY5FlhSE1sXUgMGVwxERQ==
+#EXTINF:-1 tvg-id="FOX LOS ANGELES CA KTTV" tvg-name="FOX Los Angeles KTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/500px-Fts-los-angeles-a.svg.png" group-title="USA LOCAL",FOX Los Angeles
+http://192.101.68.99:25461/live/923429/481252/71612.m3u8?token=ShRZAEYJFQxGC1ZaA1cEB1VbVQUJB19UV1BUVAQHBwMIBwJZVAcEAFEaShpGQUQDVlVuXFUXAwEEVAYFHRYTFVREbghRQw0UVQhQCAUGFEoVTFhYVBcDBhlAR15VFlwIRFpdTRcET0IBSghZWWpSA0FRUlATD1dDWQ4bFV5aOQJUW1APUUMNFFUaShpcRkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERiaxMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwJEGxpcWl9cTVlHPUdeVRZcCERaXRw=
